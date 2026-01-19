@@ -1,0 +1,102 @@
+2025-12-24 17:44:16,067 - __main__ - INFO - ✅ Конфигурация загружена
+2025-12-24 17:44:18,404 - __main__ - ERROR - ❌ Критическая ошибка: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 17:44:18,405 - __main__ - ERROR - 🚨 Фатальная ошибка: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 17:49:21,936 - __main__ - INFO - 🚀 Бот запускается...
+2025-12-24 17:49:21,936 - aiogram.dispatcher - INFO - Start polling
+2025-12-24 17:49:22,099 - aiogram.dispatcher - INFO - Run polling for bot @VataStudioHelperbot id=8090282078 - 'AITAblebot'
+2025-12-24 17:49:46,581 - aiogram.event - INFO - Update id=669372108 is handled. Duration 214 ms by bot id=8090282078
+2025-12-24 17:50:27,052 - aiogram.event - INFO - Update id=669372109 is handled. Duration 160 ms by bot id=8090282078
+2025-12-24 17:50:31,361 - aiogram.event - INFO - Update id=669372110 is handled. Duration 77 ms by bot id=8090282078
+2025-12-24 17:51:11,902 - aiogram.event - INFO - Update id=669372111 is handled. Duration 182 ms by bot id=8090282078
+2025-12-24 17:56:35,310 - __main__ - ERROR - ❌ Ошибка загрузки данных: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 17:56:35,311 - __main__ - INFO - 🚀 Бот запускается...
+2025-12-24 17:56:35,312 - aiogram.dispatcher - INFO - Start polling
+2025-12-24 17:56:35,465 - aiogram.dispatcher - INFO - Run polling for bot @VataStudioHelperbot id=8090282078 - 'AITAblebot'
+2025-12-24 17:56:41,803 - aiogram.event - INFO - Update id=669372112 is handled. Duration 201 ms by bot id=8090282078
+2025-12-24 17:56:43,907 - aiogram.event - INFO - Update id=669372113 is handled. Duration 130 ms by bot id=8090282078
+2025-12-24 17:56:45,341 - __main__ - ERROR - ❌ Ошибка загрузки данных: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 17:56:45,418 - aiogram.event - INFO - Update id=669372114 is handled. Duration 150 ms by bot id=8090282078
+2025-12-24 17:56:52,322 - __main__ - ERROR - ❌ Ошибка загрузки данных: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 17:56:52,421 - aiogram.event - INFO - Update id=669372115 is handled. Duration 201 ms by bot id=8090282078
+2025-12-24 18:01:56,795 - __main__ - INFO - 📥 Загружаю данные из Google Sheets...
+2025-12-24 18:01:56,795 - __main__ - INFO - 📥 Загружаю tariffs
+2025-12-24 18:01:56,884 - __main__ - INFO - 📥 Загружаю models
+2025-12-24 18:01:56,885 - __main__ - INFO - 📥 Загружаю synonyms
+2025-12-24 18:01:57,520 - __main__ - INFO - ✅ synonyms: 6 записей
+2025-12-24 18:01:57,636 - __main__ - INFO - ✅ tariffs: 4 записей
+2025-12-24 18:01:57,777 - __main__ - INFO - ✅ models: 4 записей
+2025-12-24 18:01:57,777 - __main__ - INFO - 📝 Синонимов: 12 групп
+2025-12-24 18:01:57,777 - __main__ - INFO - ✅ Данные загружены: 4 тарифов, 4 моделей, 12 групп синонимов
+2025-12-24 18:01:57,778 - __main__ - INFO - 🚀 Бот запускается...
+2025-12-24 18:01:57,778 - aiogram.dispatcher - INFO - Start polling
+2025-12-24 18:01:57,917 - aiogram.dispatcher - INFO - Run polling for bot @VataStudioHelperbot id=8090282078 - 'AITAblebot'
+2025-12-24 18:01:57,967 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:01:57,967 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8090282078)
+2025-12-24 18:02:02,030 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:02,030 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8090282078)
+2025-12-24 18:02:03,005 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8090282078)
+2025-12-24 18:02:03,084 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:03,084 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8090282078)
+2025-12-24 18:02:03,204 - aiogram.event - INFO - Update id=669372116 is handled. Duration 199 ms by bot id=8090282078
+2025-12-24 18:02:05,302 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8090282078)
+2025-12-24 18:02:05,462 - __main__ - ERROR - ❌ Ошибка загрузки данных: (unicode error) 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte (__init__.py, line 1)
+2025-12-24 18:02:05,599 - aiogram.event - INFO - Update id=669372117 is handled. Duration 296 ms by bot id=8090282078
+2025-12-24 18:02:07,147 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:07,147 - aiogram.dispatcher - WARNING - Sleep for 1.148615 seconds and try again... (tryings = 1, bot id = 8090282078)
+2025-12-24 18:02:08,345 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:08,345 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8090282078)
+2025-12-24 18:02:12,402 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:12,402 - aiogram.dispatcher - WARNING - Sleep for 1.533103 seconds and try again... (tryings = 2, bot id = 8090282078)
+2025-12-24 18:02:13,987 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:13,987 - aiogram.dispatcher - WARNING - Sleep for 1.254017 seconds and try again... (tryings = 1, bot id = 8090282078)
+2025-12-24 18:02:18,310 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:19,087 - aiogram.dispatcher - WARNING - Sleep for 1.965722 seconds and try again... (tryings = 3, bot id = 8090282078)
+2025-12-24 18:02:21,108 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:21,108 - aiogram.dispatcher - WARNING - Sleep for 1.699910 seconds and try again... (tryings = 2, bot id = 8090282078)
+2025-12-24 18:02:25,868 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:25,868 - aiogram.dispatcher - WARNING - Sleep for 2.560299 seconds and try again... (tryings = 4, bot id = 8090282078)
+2025-12-24 18:02:28,476 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:28,476 - aiogram.dispatcher - WARNING - Sleep for 1.986066 seconds and try again... (tryings = 3, bot id = 8090282078)
+2025-12-24 18:02:33,520 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-12-24 18:02:33,521 - aiogram.dispatcher - WARNING - Sleep for 3.524511 seconds and try again... (tryings = 5, bot id = 8090282078)
+2025-12-24 18:02:41,821 - __main__ - INFO - 📥 Загружаю данные из Google Sheets...
+2025-12-24 18:02:41,821 - __main__ - INFO - 📥 Загружаю tariffs
+2025-12-24 18:02:41,910 - __main__ - INFO - 📥 Загружаю models
+2025-12-24 18:02:41,911 - __main__ - INFO - 📥 Загружаю synonyms
+2025-12-24 18:02:42,402 - __main__ - INFO - ✅ synonyms: 6 записей
+2025-12-24 18:02:42,436 - __main__ - INFO - ✅ models: 4 записей
+2025-12-24 18:02:42,633 - __main__ - INFO - ✅ tariffs: 4 записей
+2025-12-24 18:02:42,634 - __main__ - INFO - 📝 Синонимов: 12 групп
+2025-12-24 18:02:42,634 - __main__ - INFO - ✅ Данные загружены: 4 тарифов, 4 моделей, 12 групп синонимов
+2025-12-24 18:02:42,635 - __main__ - INFO - 🚀 Бот запускается...
+2025-12-24 18:02:42,635 - aiogram.dispatcher - INFO - Start polling
+2025-12-24 18:02:42,771 - aiogram.dispatcher - INFO - Run polling for bot @VataStudioHelperbot id=8090282078 - 'AITAblebot'
+2025-12-24 18:02:46,729 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001AA4999CC20>
+2025-12-24 18:02:46,730 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001AA49967830>, 3878.0529967)]', '[(<aiohttp.client_proto.ResponseHandler object at 0x000001AA49A00530>, 3878.3032985)]', '[(<aiohttp.client_proto.ResponseHandler object at 0x000001AA49967C50>, 3878.3370136), (<aiohttp.client_proto.ResponseHandler object at 0x000001AA49966DB0>, 3878.5346388)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001AA4999CD70>
+2025-12-24 18:02:46,730 - __main__ - INFO - 📥 Загружаю данные из Google Sheets...
+2025-12-24 18:02:46,730 - __main__ - INFO - 📥 Загружаю tariffs
+2025-12-24 18:02:46,730 - __main__ - INFO - 📥 Загружаю models
+2025-12-24 18:02:46,730 - __main__ - INFO - 📥 Загружаю synonyms
+2025-12-24 18:02:47,139 - __main__ - INFO - ✅ synonyms: 6 записей
+2025-12-24 18:02:47,187 - __main__ - INFO - ✅ tariffs: 4 записей
+2025-12-24 18:02:47,189 - __main__ - INFO - ✅ models: 4 записей
+2025-12-24 18:02:47,189 - __main__ - INFO - 📝 Синонимов: 12 групп
+2025-12-24 18:02:47,189 - __main__ - INFO - ✅ Данные загружены: 4 тарифов, 4 моделей, 12 групп синонимов
+2025-12-24 18:02:47,295 - aiogram.event - INFO - Update id=669372118 is handled. Duration 748 ms by bot id=8090282078
+2025-12-24 18:02:50,484 - aiogram.event - INFO - Update id=669372119 is handled. Duration 73 ms by bot id=8090282078
+2025-12-24 18:02:52,597 - aiogram.event - INFO - Update id=669372120 is handled. Duration 104 ms by bot id=8090282078
+2025-12-24 18:02:55,906 - aiogram.event - INFO - Update id=669372121 is handled. Duration 144 ms by bot id=8090282078
+2025-12-24 18:03:03,816 - aiogram.event - INFO - Update id=669372122 is handled. Duration 215 ms by bot id=8090282078
+2025-12-24 18:03:10,215 - aiogram.event - INFO - Update id=669372123 is handled. Duration 84 ms by bot id=8090282078
+2025-12-24 18:03:23,296 - aiogram.event - INFO - Update id=669372124 is handled. Duration 138 ms by bot id=8090282078
+2025-12-24 18:03:30,888 - aiogram.event - INFO - Update id=669372125 is handled. Duration 74 ms by bot id=8090282078
+2025-12-24 18:03:47,638 - aiogram.event - INFO - Update id=669372126 is handled. Duration 394 ms by bot id=8090282078
+2025-12-24 18:03:59,043 - aiogram.event - INFO - Update id=669372127 is handled. Duration 71 ms by bot id=8090282078
+2025-12-24 18:04:05,212 - aiogram.event - INFO - Update id=669372128 is handled. Duration 76 ms by bot id=8090282078
+2025-12-24 18:04:23,303 - aiogram.event - INFO - Update id=669372129 is handled. Duration 323 ms by bot id=8090282078
+2025-12-24 18:04:44,017 - aiogram.event - INFO - Update id=669372130 is handled. Duration 169 ms by bot id=8090282078
+2025-12-24 18:04:58,414 - aiogram.event - INFO - Update id=669372131 is handled. Duration 208 ms by bot id=8090282078
+2025-12-24 18:05:06,840 - aiogram.event - INFO - Update id=669372132 is handled. Duration 150 ms by bot id=8090282078
